@@ -1,5 +1,7 @@
 # Docker image for Certbot plugin for authentication using Gandi LiveDNS
 
+USE THIS AT YOUR OWN RISK! THIS IS NOT VERY GOOD TESTED!
+
 This is the dockerized version of a plugin for [Certbot](https://certbot.eff.org/) that uses the Gandi
 LiveDNS API to allow [Gandi](https://www.gandi.net/) customers to prove control of a domain name.
 
