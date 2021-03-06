@@ -1,3 +1,5 @@
+> THIS REPOSITORY IS NOT LONGER MAINTAINED
+
 # Docker image for Certbot plugin for authentication using Gandi LiveDNS
 
 USE THIS AT YOUR OWN RISK! THIS IS NOT VERY GOOD TESTED!
